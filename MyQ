@@ -1,0 +1,5 @@
+"platforms": [{
+    "platform": "myQ",
+    "email": "email@email.com",
+    "password": "password"
+}]
